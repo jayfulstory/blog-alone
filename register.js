@@ -1,4 +1,1 @@
-register;
-registerModel;
-registerController;
 finish;
